@@ -1,0 +1,48 @@
+Project 4
+
+1. Trying to predict salary based on location, title and summary
+2) Then see if the salary is good or bad - compare to mean
+
+logistic regressio to clasify the job (low, high) use median as your threshold
+
+PArse title and create a column
+dummeis for city
+read summary and get some skills and create table for each skills
+
+
+
+
+
+patsy.dmatrix(city)
+
+lasso
+RFE or kBest
+
+classifitiaon modela as regression so returning probability on high and low both
+
+logistric regression regressor as class in sklearn
+
+run logis reg on binary classifier
+
+model
+1. feature and target --> (we have shape, 
+2. splitter (train test) --> 
+3. scaling
+4. transform on both
+step 1 is from project 3 standard_regression
+5.
+
+The problem statement is: we are trying to classify job is high or low paying based on title/key word
+
+Deep learning
+econometrics
+python-r	
+NLP
+AWS Cloud
+machine learning
+business intelligence
+java
+ Predictive Modeling
+scala
+
+
